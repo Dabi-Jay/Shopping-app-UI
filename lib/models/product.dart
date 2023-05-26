@@ -27,7 +27,7 @@ List<Product> products = [
       color: const Color(0xFF3D82AE)),
   Product(
       id: 2,
-      title: "Office Code",
+      title: "Office code",
       price: 234,
       size: 12,
       description: dummyText,
